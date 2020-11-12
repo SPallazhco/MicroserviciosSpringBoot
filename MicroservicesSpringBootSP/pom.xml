@@ -28,7 +28,7 @@
   <modules>
     <module>jdj-core</module>
     <module>springcloud</module>
-
+    <module>serviceeureka</module>
   </modules>
 
   <dependencies>
