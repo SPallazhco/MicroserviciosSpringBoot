@@ -29,6 +29,7 @@
     <module>jdj-core</module>
     <module>springcloud</module>
     <module>serviceeureka</module>
+    <module>zuulgateway</module>
   </modules>
 
   <dependencies>
